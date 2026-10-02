@@ -1,0 +1,1612 @@
+TradingView Market Report
+Generated on: 2026-10-02 21:21:06.154871
+
+Skip to main content
+Search
+Products
+Community
+Markets
+Brokers
+More
+IN
+Get started
+Markets, everywhere
+Indian stocks
+World stocks
+Crypto
+Futures
+Forex
+Government bonds
+Corporate bonds
+ETFs
+Economy
+Indices﻿﻿
+Nifty 50
+D
+22,421.95
+POINT
+−0.88%
+Sensex
+D
+71,909.70
+POINT
+−0.79%
+Nifty 500
+D
+21,857.75
+POINT
+−0.97%
+Nifty MidCap
+D
+58,732.00
+POINT
+−1.01%
+Nifty SmallCap
+D
+19,058.65
+POINT
+−0.97%
+India VIX
+D
+14.4550
+POINT
++7.15%
+Nifty banks
+D
+54,450.75
+POINT
+−0.33%
+Nifty financial services
+D
+24,556.10
+POINT
+−0.38%
+
+See all indices 
+
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+World indices﻿﻿
+SPX
+D
+S&P 500 Index
+7,719.47
+POINT
++0.69%
+NDX
+D
+Nasdaq-100 Index
+30,827.01
+POINT
++1.07%
+DJI
+D
+Dow Jones Industrial Average Index
+51,109.31
+POINT
++0.36%
+NI225
+Japan 225 Index
+68,309.24
+JPY
+−0.94%
+UKX
+D
+FTSE 100 Index
+10,461.95
+POINT
++0.32%
+DAX
+D
+DAX Index
+25,230.26
+POINT
++1.17%
+PX1
+D
+CAC 40 Index
+7,897.19
+POINT
++0.79%
+FTMIB
+Milano Italia Borsa Index
+50,483.22
+EUR
++0.49%
+IBC
+D
+IBEX 35 Index
+19,085.30
+POINT
++0.42%
+000001
+D
+SSE Composite Index
+3,842.19
+POINT
++0.31%
+HSI
+Hang Seng Index
+23,972.29
+POINT
+−2.60%
+IRUS
+Russia Index
+2,278.10
+POINT
+−0.02%
+
+See all major indices 
+
+Indian stocks﻿﻿
+Reliance Industries
+Tata Consultancy Services
+HDFC Bank
+ICICI Bank
+Hindustan Unilever
+Infosys
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+Community trends﻿
+ACC
+ACC Limited
+HAVELLS
+Havells India Limited
+HCLTECH
+HCL Technologies Limited
+BAJAJFINSV
+Bajaj Finserv Limited
+BPCL
+Bharat Petroleum Corporation Limited
+AMBUJACEM
+Ambuja Cements Limited
+HINDALCO
+Hindalco Industries Limited
+ASIANPAINT
+Asian Paints Ltd.
+TECHM
+Tech Mahindra Limited
+SUNPHARMA
+Sun Pharmaceutical Industries Limited
+Highest volume stocks﻿﻿
+M
+Moneyview Limited
+MONEYVIEW
+Kotak Mahindra Bank Limited
+KOTAKBANK
+HDFC Bank Limited
+HDFCBANK
+Reliance Industries Limited
+RELIANCE
+BSE Ltd.
+BSE
+ICICI Bank Limited
+ICICIBANK
+See all most actively traded stocks
+Most volatile stocks﻿﻿
+A
+Aditya Forge Limited
+ADTYFRG
+Mid East Portfolio Management Limited
+MIDEASTP
+Yunik Managing Advisors Limited
+YUNIKM
+Tarini International Ltd
+TARINI
+Astron Multigrain Limited
+ASTRONMULT
+KBS India Limited
+KBSINDIA
+See all stocks with biggest price changes
+Stock gainers﻿﻿
+See all stocks with largest daily growth
+Stock losers﻿﻿
+See all stocks with largest daily drop
+Earnings Calendar﻿﻿
+Oct 8
+TCS
+Tata Consultancy Services Limited
+Actual
+—
+Estimate
+37.96
+INR
+Oct 8
+ANANDRATHI
+Anand Rathi Wealth Ltd.
+Actual
+—
+Estimate
+—
+Oct 8
+TATAELXSI
+Tata Elxsi Limited
+Actual
+—
+Estimate
+28.38
+INR
+Oct 8
+IREDA
+Indian Renewable Energy Development Agency Ltd.
+Actual
+—
+Estimate
+—
+Oct 9
+CANFINHOME
+Can Fin Homes Ltd.
+Actual
+—
+Estimate
+20.06
+INR
+Oct 9
+POONAWALLA
+Poonawalla Fincorp Limited
+Actual
+—
+Estimate
+—
+Oct 12
+GTPL
+GTPL Hathway Ltd
+Actual
+—
+Estimate
+—
+Oct 12
+HCLTECH
+HCL Technologies Limited
+Actual
+—
+Estimate
+17.83
+INR
+
+See more events 
+
+See all events
+IPO Calendar﻿﻿
+Oct 5
+R
+RUNWALENTR
+Runwal Enterprises Limited
+Exchange
+BSE
+Offer price
+305.00
+INR
+Oct 5
+H
+HIMALAYAN
+HIMALAYAN SOLAR LTD
+Exchange
+NSE
+Offer price
+98.00 - 103.00
+INR
+Oct 5
+S
+SAIURJA
+SAI URJA INDO VENTURES LIMITED
+Exchange
+BSE
+Offer price
+113.00
+INR
+Oct 5
+O
+ORIENTCABL
+Orient Cables(India)Limited
+Exchange
+BSE
+Offer price
+272.00
+INR
+Oct 5
+A
+ACEVECTOR
+ACEVECTOR LIMITED
+Exchange
+BSE
+Offer price
+32.00
+INR
+Oct 5
+B
+BMISL
+Bench Mark Infotech Services Limited
+Exchange
+NSE
+Offer price
+110.00
+INR
+Oct 5
+G
+GERMAN
+German Green Steel and Power L
+Exchange
+BSE
+Offer price
+132.00
+INR
+Oct 5
+D
+DUDANI
+Dudani Retail Limited
+Exchange
+BSE
+Offer price
+29.00
+INR
+Oct 7
+V
+VANS
+VANS ElectroEngineerings Limited
+Exchange
+BSE
+Offer price
+112.00 - 118.00
+INR
+
+See more events 
+
+See all events
+World stocks﻿﻿
+Microsoft
+Saudi Aramco
+TSMC
+LVMH
+Tencent Holdings
+Samsung Electronics
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+World biggest companies﻿﻿
+SYMBOL
+PRICE & CHG
+MARKET CAP
+NVIDIA Corporation
+NVDA
+5.67 T
+USD
+Apple Inc.
+AAPL
+4.85 T
+USD
+Alphabet Inc.
+GOOG
+4.17 T
+USD
+Microsoft Corporation
+MSFT
+3.83 T
+USD
+Amazon.com, Inc.
+AMZN
+2.7 T
+USD
+Space Exploration Technologies Corp
+SPCX
+2.13 T
+USD
+See all world major companies
+World largest employers﻿﻿
+SYMBOL
+PRICE & CHG
+EMPLOYEES
+Walmart Inc.
+WMT
+2.1 M
+Amazon.com, Inc.
+AMZN
+1.6 M
+BYD Company Limited Class A
+002594
+869.6 K
+JD.com, Inc.
+JD
+776.7 K
+JD Logistics, Inc.
+2618
+682.7 K
+Volkswagen AG
+VOW
+662.9 K
+See all world biggest employers
+Earnings Calendar﻿﻿
+Today
+3035
+ktk Inc.
+Actual
+0.15
+USD
+Estimate
+—
+Today
+JDW
+J D Wetherspoon plc
+Actual
+0.33
+USD
+Estimate
+0.33
+USD
+Today
+7611
+Hiday Hidaka Corp.
+Actual
+0.23
+USD
+Estimate
+—
+Today
+3321
+Mitachi Co., Ltd.
+Actual
+0.41
+USD
+Estimate
+—
+Today
+4394
+eXmotion Co., Ltd.
+Actual
+0.04
+USD
+Estimate
+—
+Today
+8931
+WADAKOHSAN CORPORATION
+Actual
+0.20
+USD
+Estimate
+—
+Today
+7870
+Fukushima Printing Co., Ltd.
+Actual
+0.21
+USD
+Estimate
+—
+Today
+7975
+LIHIT LAB., INC.
+Actual
+−0.10
+USD
+Estimate
+—
+
+See more events 
+
+See all events
+IPO Calendar﻿﻿
+Oct 5
+R
+RUNWALENTR
+Runwal Enterprises Limited
+Exchange
+BSE
+Offer price
+305.00
+INR
+Oct 5
+H
+HIMALAYAN
+HIMALAYAN SOLAR LTD
+Exchange
+NSE
+Offer price
+98.00 - 103.00
+INR
+Oct 5
+S
+SAIURJA
+SAI URJA INDO VENTURES LIMITED
+Exchange
+BSE
+Offer price
+113.00
+INR
+Oct 5
+O
+ORIENTCABL
+Orient Cables(India)Limited
+Exchange
+BSE
+Offer price
+272.00
+INR
+Oct 5
+A
+ACEVECTOR
+ACEVECTOR LIMITED
+Exchange
+BSE
+Offer price
+32.00
+INR
+Oct 5
+B
+BMISL
+Bench Mark Infotech Services Limited
+Exchange
+NSE
+Offer price
+110.00
+INR
+Oct 5
+G
+GERMAN
+German Green Steel and Power L
+Exchange
+BSE
+Offer price
+132.00
+INR
+Oct 5
+D
+DUDANI
+Dudani Retail Limited
+Exchange
+BSE
+Offer price
+29.00
+INR
+Oct 6
+0476
+SLGC BERHAD
+Exchange
+MYX
+Offer price
+0.28
+MYR
+Oct 7
+V
+VANS
+VANS ElectroEngineerings Limited
+Exchange
+BSE
+Offer price
+112.00 - 118.00
+INR
+
+See more events 
+
+See all events
+Crypto﻿﻿
+Bitcoin
+Ethereum
+Tether
+Binance Coin
+USD Coin
+XRP
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+Community trends﻿
+SANDUSDT
+SAND / TetherUS
+GALAUSDT
+GALA / TetherUS
+ALICEUSDT
+ALICE / TetherUS
+AAVEUSDT
+AAVE / TetherUS
+BTC.D
+Market Cap BTC Dominance, %
+LTCUSDT
+Litecoin / TetherUS
+XRPUSDT
+XRP / TetherUS
+BTCUSDT
+Bitcoin / TetherUS
+SOLUSDT
+SOL / TetherUS
+BTCUSD
+Bitcoin
+Crypto market cap ranking﻿﻿
+SYMBOL
+PRICE & CHG
+MARKET CAP
+Bitcoin
+BTCUSD
+1.71 T
+Ethereum
+ETHUSD
+329.2 B
+Tether USDt
+USDTUSD
+184.02 B
+BNB
+BNBUSD
+102.95 B
+XRP
+XRPUSD
+94.95 B
+USDC
+USDCUSD
+74.02 B
+See all coins
+TVL ranking﻿﻿
+SYMBOL
+PRICE & CHG
+TVL
+Aave
+AAVEUSD
+33.18 B
+Lido DAO
+LDOUSD
+26.78 B
+Ethena
+ENAUSD
+5.4 B
+Uniswap
+UNIUSD
+4.06 B
+Babylon
+BABYLUSD
+3.46 B
+Monad
+MONADUSD
+2.96 B
+See all coins with the most value locked
+Crypto gainers﻿﻿
+The Sandbox
+SANDUSD
++44.28%
+Midnight
+NIGHTMIUSD
++17.96%
+Worldcoin
+WLDWUSD
++17.26%
+Sky
+SKY2USD
++16.41%
+ApeCoin
+APEUSD
++16.35%
+Gala
+GALAUSD
++14.60%
+See all coins with largest daily growth
+Crypto losers﻿﻿
+Cap
+CAP7USD
+−11.16%
+SOON
+SOON2USD
+−9.37%
+Falcon Finance
+FFUSD
+−5.78%
+Stacks
+STXSUSD
+−5.69%
+JasmyCoin
+JASMYUSD
+−5.67%
+Prom
+PROMUSD
+−5.31%
+See all coins with largest daily drop
+Futures and commodities﻿﻿
+Gold
+Silver
+Copper
+Zinc
+Crude oil
+Natural gas
+Sorry, this is only available to registered users
+MCX provides data to our registered users only, so to get it you'll need to sign up for a TradingView account.
+Join for free
+Energy futures﻿﻿
+Crude oil
+CRUDEOIL1!
+Natural gas
+NATURALGAS1!
+Light crude oil
+CL1!
+Brent crude oil
+BRN1!
+RBOB gasoline
+RB1!
+NY Harbor ULSD
+HO1!
+See all energy futures
+Agricultural futures﻿﻿
+Turmeric
+TMCFGRNZM1!
+Guar seed
+GUARSEED101!
+Jeera
+JEERAUNJHA1!
+Coriander
+DHANIYA1!
+Cotton seed oilcake
+COCUDAKL1!
+Mentha oil
+MENTHAOIL1!
+See all agricultural futures
+Metals futures﻿﻿
+Gold
+GOLD1!
+Silver
+SILVER1!
+Aluminum
+ALUMINIUM1!
+Copper
+COPPER1!
+Zinc
+ZINC1!
+Lead
+LEAD1!
+See all metals futures
+Index futures﻿﻿
+GIFT Nifty 50 index
+NIFTY1!
+B
+Bank Nifty index
+BANKNIFTY1!
+S&P CNX Nifty index
+NIFTY1!
+Nifty Financial Services index
+FINNIFTY1!
+Nifty Midcap Select index
+MIDCPNIFTY1!
+S&P BSE SENSEX index
+BSX1!
+See all index futures
+Forex and currencies﻿﻿
+USD to INR
+EUR to INR
+JPY to INR
+GBP to INR
+CHF to INR
+AUD to INR
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+Majors﻿﻿
+EUR to USD
+EURUSD
+USD to JPY
+USDJPY
+GBP to USD
+GBPUSD
+AUD to USD
+AUDUSD
+USD to CAD
+USDCAD
+USD to CHF
+USDCHF
+See all major pairs
+Currency indices﻿﻿
+US Dollar index
+DXY
+Euro index
+EXY
+Japanese yen index
+JXY
+British Pound
+BXY
+Swiss Franc
+SXY
+Canadian Dollar
+CXY
+See all currency indices
+Government bonds﻿﻿
+Yield curve﻿﻿
+Customize curves
+	
+	
+
+	
+	
+India
+USA
+United Kingdom
+Germany
+France
+Italy
+Canada
+Japan
+Mainland China
+Indian bonds﻿﻿
+SYMBOL
+PRICE & CHG
+YIELD
+3 months
+IN03MY
+98.820%
++0.07%
+5.450%
+6 months
+IN06MY
+97.175%
+−0.06%
+5.962%
+1 year
+IN01Y
+100.599%
++0.24%
+6.481%
+2 years
+IN02Y
+101.384%
+−0.07%
+6.634%
+5 years
+IN05Y
+98.602%
++0.61%
+6.868%
+10 years
+IN10Y
+98.146%
+−0.17%
+7.209%
+See all Indian bonds
+Major 10Y bonds﻿﻿
+SYMBOL
+PRICE & CHG
+YIELD
+India
+IN10Y
+98.146%
+−0.17%
+7.209%
+USA
+US10Y
+95.188%
+−0.10%
+5.256%
+European Union
+EU10Y
+96.221%
++0.60%
+3.457%
+United Kingdom
+GB10Y
+96.301%
++0.22%
+5.362%
+Germany
+DE10Y
+96.221%
++0.60%
+3.457%
+France
+FR10Y
+90.877%
++0.62%
+4.859%
+See all major 10Y bonds
+Corporate bonds﻿﻿
+US71654QDD16
+Petroleos Mexicanos 7.69% 23-JAN-2050
+Maturity dateJan 23, 2050
+Coupon7.69% (Fixed)
+PEMX5055132
+Petroleos Mexicanos 6.95% 28-JAN-2060
+Maturity dateJan 28, 2060
+Coupon6.95% (Fixed)
+US71654QCC42
+Petroleos Mexicanos 6.75% 21-SEP-2047
+Maturity dateSep 21, 2047
+Coupon6.75% (Fixed)
+PXTH
+Petroleos Mexicanos 6.35% 12-FEB-2048
+Maturity dateFeb 12, 2048
+Coupon6.35% (Fixed)
+US71654QBR2
+Petroleos Mexicanos 6.375% 23-JAN-2045
+Maturity dateJan 23, 2045
+Coupon6.38% (Fixed)
+S
+GUGG5923941
+SBL Holdings, Inc. 7.2% 30-OCT-2034
+Maturity dateOct 30, 2034
+Coupon7.20% (Fixed)
+US71654QAZ54
+Petroleos Mexicanos 6.5% 02-JUN-2041
+Maturity dateJun 2, 2041
+Coupon6.50% (Fixed)
+US71654QBX9
+Petroleos Mexicanos 5.625% 23-JAN-2046
+Maturity dateJan 23, 2046
+Coupon5.63% (Fixed)
+US40049JBC09
+Grupo Televisa, S.A.B. 6.125% 31-JAN-2046
+Maturity dateJan 31, 2046
+Coupon6.13% (Fixed)
+TV4837441
+Grupo Televisa, S.A.B. 5.25% 24-MAY-2049
+Maturity dateMay 24, 2049
+Coupon5.25% (Fixed)
+US40049JAZ03
+Grupo Televisa, S.A.B. 6.625% 15-JAN-2040
+Maturity dateJan 15, 2040
+Coupon6.63% (Fixed)
+
+See more bonds 
+
+Short-term﻿﻿
+SYMBOL
+YIELD TO MATURITY
+MATURITY DATE
+Freddie Mac 3.77% 05-APR-2027
+FMCC6330731
+4.50%
+Apr 5, 2027
+A
+Amrize Finance US LLC 4.6% 07-APR-2027
+HCMLF6269494
+4.83%
+Apr 7, 2027
+B
+Brighthouse Financial Global Funding 5.55% 09-APR-2027
+BHF5787153
+5.59%
+Apr 9, 2027
+A
+AerCap Ireland Capital Designated Activity Company 6.45% 15-APR-2027
+AER5707664
+5.02%
+Apr 15, 2027
+B
+Bunge Limited Finance Corp. 4.9% 21-APR-2027
+BG6156487
+4.70%
+Apr 21, 2027
+Walmart Inc. 4.1% 28-APR-2027
+WMT6060990
+4.33%
+Apr 28, 2027
+See all short-term bonds
+Long-term﻿﻿
+SYMBOL
+YIELD TO MATURITY
+MATURITY DATE
+Norfolk Southern Corporation 4.1% 15-MAY-2121
+US655844CJ5
+6.55%
+May 15, 2121
+Norfolk Southern Corporation 5.1% 01-AUG-2118
+NFSE
+6.43%
+Aug 1, 2118
+Canadian Pacific Railway Company 6.125% 15-SEP-2115
+US13645RAX2
+6.58%
+Sep 15, 2115
+Electricite de France, Societe Anonyme 6.0% 22-JAN-2114
+ELEN
+6.99%
+Jan 22, 2114
+Cummins Inc. 5.65% 01-MAR-2098
+CMI3671567
+6.59%
+Mar 1, 2098
+T
+Travelers Group, Inc. 6.875% 15-FEB-2098
+C3715810
+6.73%
+Feb 15, 2098
+See all bonds with long-term maturities
+Floating-rate﻿﻿
+SYMBOL
+YIELD TO MATURITY
+COUPON
+MetLife, Inc. 10.75% 01-AUG-2039
+MET.IS
+—
+10.75%
+Credit Suisse Group AG 9.016% 15-NOV-2033
+CS5501682
+—
+9.02%
+Credit Suisse Group AG 9.016% 15-NOV-2033
+US225401BB3
+—
+9.02%
+Bank of Nova Scotia 8.625% 27-OCT-2082
+BNS5491221
+—
+8.63%
+Enbridge Inc. 8.5% 15-JAN-2084
+US29250NBT19
+—
+8.50%
+M
+Magellan Capital Holdings PLC 8.375% 08-JUL-2029
+XS285296650
+—
+8.38%
+See all bonds with a floating interest rate
+Fixed-rate﻿﻿
+SYMBOL
+YIELD TO MATURITY
+COUPON
+Valero Energy Corporation 10.5% 15-MAR-2039
+VLO.IF
+6.43%
+10.50%
+Altria Group, Inc. 10.2% 06-FEB-2039
+MO.HH
+6.47%
+10.20%
+Petroleos Mexicanos 10.0% 07-FEB-2033
+PEMX5666477
+7.82%
+10.00%
+Ford Motor Company 9.98% 15-FEB-2047
+F.GU
+7.63%
+9.98%
+Altria Group, Inc. 9.95% 10-NOV-2038
+MO.HA
+6.59%
+9.95%
+A
+ACE Capital Trust II 9.7 % 2000-1.4.30 Gtd
+ACE.GD
+5.75%
+9.70%
+See all bonds with a fixed coupon rate
+ETFs﻿﻿
+SPDR S&P 500 ETF TRUST
+iShares Bitcoin Trust
+Vanguard Morningstar Total Stock Market ETF
+Invesco QQQ Trust, Series 1
+NEXT FUNDS TOPIX ETF
+iFreeETF TOPIX (Yearly Dividend Type)
+	
+	
+
+	
+	
+1D
+1M
+3M
+1Y
+5Y
+All
+Community trends﻿
+IBIT
+iShares Bitcoin Trust
+TNA
+Direxion Small Cap Bull 3X ETF
+MSTU
+T-Rex 2X Long MSTR Daily Target ETF
+ETHA
+iShares Ethereum Trust ETF
+SOXL
+Direxion Daily Semiconductor Bull 3X ETF
+VWRA
+Vanguard FTSE All-World UCITS ETF Accum USD
+SOXX
+iShares PHLX SOX Semiconductor Sector Index Fund
+USO
+United States Oil Fund
+URA
+Global X Uranium ETF
+IWM
+iShares Russell 2000 Index Fund
+Most traded﻿﻿
+SPDR S&P 500 ETF TRUST
+SPY
+Invesco QQQ Trust, Series 1
+QQQ
+Direxion Daily Semiconductor Bull 3X ETF
+SOXL
+iShares iBoxx $ High Yield Corporate Bond ETF
+HYG
+iShares Russell 2000 Index Fund
+IWM
+Vanguard S&P 500 ETF
+VOO
+See all most traded funds
+Highest AUM growth﻿﻿
+State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF
+UCBG
+Desjardins Active Canadian Bond Universe ETF Trust Unit
+DACU
+iShares Future AI Beneficiaries ETF
+AIBF
+BNY Mellon Global Fixed Income ETF
+BGFI
+Desjardins RI Global Multifactor Fossil Fuel Reserves Free ETF
+DRFG
+iShares U.S. Industry Rotation Active ETF
+INRO
+See all funds with biggest AUM growth
+Highest returns﻿﻿
+SYMBOL
+PRICE & CHG
+NAV TOTAL RETURN 1Y
+Direxion Daily Semiconductor Bull 3X ETF
+SOXL
+USD
+317.51%
+NH -Amundi HANARO K-Semiconductor ETF Units
+395270
+KRW
+310.33%
+Hanwha PLUS Global HBM Semiconductor ETF
+442580
+KRW
+294.35%
+Mirae Asset Tiger IT ETF
+139260
+KRW
+275.31%
+Samsung KODEX Leverage ETF (EQUITY-DERIVATIVES)
+122630
+KRW
+268.17%
+SAMSUNG KODEX AI Semiconductor TOP2 Plus ETF Units
+395160
+KRW
+227.62%
+See all highest returning funds
+Highest dividend yields﻿﻿
+SYMBOL
+PRICE & CHG
+DIVIDEND YIELD FWD
+YieldMax MSTR Option Income Strategy ETF
+MSTY
+301.17%
+YieldMax SMCI Option Income Strategy ETF
+SMCY
+124.24%
+YieldMax COIN Option Income Strategy ETF
+CONY
+123.9%
+YieldMax HOOD Option Income Strategy ETF
+HOOY
+123.31%
+Roundhill HOOD WeeklyPay ETF
+HOOW
+106.93%
+YieldMax Gold Miners Option Income Strategy ETF
+GDXY
+96.67%
+See all high dividend funds
+Economy﻿﻿
+India GDP
+India GDP growth
+India real GDP
+India interest rate
+India inflation rate YoY
+India unemployment rate
+	
+	
+
+	
+	
+5Y
+10Y
+All
+Economic indicators heatmap﻿﻿
+	
+GDP
+	
+GDP Growth
+	
+Budget to GDP
+	
+Government Debt to GDP
+	
+Interest Rate
+	
+Inflation Rate
+	
+Unemployment Rate
+	
+Current Account to GDP
+	
+Industrial Production YoY
+
+
+USA
+	
+30.77 T
+USD
+	
+2.2
+%
+	
+−5.9
+% of GDP
+	
+123.3
+% of GDP
+	
+4
+%
+	
+3.4
+%
+	
+4.2
+%
+	
+−3.6
+% of GDP
+	
+1.4
+%
+
+
+Mainland China
+	
+19.5 T
+USD
+	
+4.3
+%
+	
+−6.5
+% of GDP
+	
+99.2
+% of GDP
+	
+3
+%
+	
+0.8
+%
+	
+5.3
+%
+	
+3.7
+% of GDP
+	
+5.2
+%
+
+
+EU
+	
+18.01 T
+USD
+	
+1.2
+%
+	
+−2.9
+% of GDP
+	
+87.8
+% of GDP
+	
+2.65
+%
+	
+3.8
+%
+	
+6.4
+	
+1.6
+	
+
+
+Germany
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Japan
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+UK
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+India
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+France
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Russia
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Canada
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Global inflation map﻿﻿
+0%
+3%
+7%
+12%
+25%
+See more global trends
+Economic Calendar﻿﻿
+Today
+•
+Baker Hughes Oil Rig Count
+Actual
+Soon
+Forecast
+—
+Prior
+455
+Today
+•
+Baker Hughes Total Rigs Count
+Actual
+Soon
+Forecast
+—
+Prior
+599
+Tomorrow
+•
+Fiscal Balance
+Actual
+—
+Forecast
+—
+Prior
+−731.7 B
+MXN
+Tomorrow
+•
+German Unity Day
+Actual
+—
+Forecast
+—
+Prior
+—
+Tomorrow
+•
+National Day Golden Week
+Actual
+—
+Forecast
+—
+Prior
+—
+Oct 4
+•
+General Elections
+Actual
+—
+Forecast
+—
+Prior
+—
+Oct 4
+•
+National Day Golden Week
+Actual
+—
+Forecast
+—
+Prior
+—
+Oct 5
+•
+S&P Global Services PMI Final
+Actual
+—
+Forecast
+51.4
+Prior
+53.2
+
+See more events 
+
+See all market events
+MADE BY HUMANS
+English ‎(India)‎
+
+Select market data provided by ICE Data Services.
+Select reference data provided by FactSet. Copyright © 2026 FactSet Research Systems Inc.
+Copyright © 2026, American Bankers Association. CUSIP Database provided by FactSet Research Systems Inc. All rights reserved.
+SEC filings and other documents provided by Quartr.
+© 2026 TradingView, Inc.
+
+MORE THAN A PRODUCT
+Supercharts
+SCREENERS
+Stocks
+ETFs
+Bonds
+Crypto coins
+CEX pairs
+DEX pairs
+Pine
+HEATMAPS
+Stocks
+ETFs
+Crypto coins
+CALENDARS
+Economic
+Earnings
+Dividends
+IPOs
+MORE PRODUCTS
+News Flow
+Portfolios
+Yield Curves
+Options
+Macro Maps
+Pine Script®
+MCP Server
+APPS
+Mobile
+Desktop
+TOOLS & SUBSCRIPTIONS
+Features
+Pricing
+Market data
+Gift plans
+TRADING
+Overview
+Brokers
+Brokers comparison
+The Leap
+SPECIAL OFFERS
+CME Group futures
+Eurex futures
+US stocks bundle
+ABOUT COMPANY
+Who we are
+Space mission
+Blog
+Help Center
+Careers
+Media kit
+MERCH
+TradingView store
+Tarot cards for traders
+The C63 TradeTime
+POLICIES & SECURITY
+Terms of Use
+Disclaimer
+Privacy Policy
+Cookies Policy
+Accessibility Statement
+Security tips
+Bug Bounty program
+Status page
+COMMUNITY
+Social network
+Wall of Love
+Refer a friend
+Creator program
+House Rules
+Moderators
+IDEAS
+Trading
+Education
+Editors' picks
+PINE SCRIPT
+Indicators & strategies
+Wizards
+Freelancers
+Marketplace
+BUSINESS SOLUTIONS
+Widgets
+Charting libraries
+Lightweight Charts™
+Advanced Charts
+Trading Platform
+GROWTH OPPORTUNITIES
+Advertising
+Brokerage integration
+Partner program
+Education program
